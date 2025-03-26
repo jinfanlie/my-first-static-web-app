@@ -28,6 +28,7 @@ class App extends Component {
             </Suspense>
           </main>
         </div>
+        <div>hahaha</div>
       </div>
     );
   }
